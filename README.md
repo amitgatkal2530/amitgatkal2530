@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amit Gatkal</h1>
-<h3 align="center">“Full-stack developer with a passion for building and innovating machine learning models and advancing artificial intelligence.”er from India</h3>
+<h3 align="center">“Full-stack developer with a passion for building and innovating machine learning models and advancing artificial intelligence."</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
