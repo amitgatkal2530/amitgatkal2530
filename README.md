@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitgatkal2530&label=Profile%20views&color=0e75b6&style=flat" alt="amitgatkal2530" /> </p>
 
-<p align="left"> <a href="https://twitter.com/amitgatkal" target="blank"><img src="https://img.shields.io/twitter/follow/amitgatkal?logo=twitter&style=for-the-badge" alt="amitgatkal" /></a> </p>
+<p align="left"> <a href="https://x.com/gatkal_amit2530" target="blank"><img src="https://img.shields.io/twitter/follow/amitgatkal?logo=twitter&style=for-the-badge" alt="amitgatkal2530" /></a> </p>
 
 - 🔭 I’m currently working on [AI MathMingle](https://github.com/amitgatkal2530/AI-MathMingle)
 
