@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [AI MathMingle](https://github.com/amitgatkal2530/AI-MathMingle)
 
-- 🌱 I’m currently learning **currently learning and building expertise in machine learning and artificial intelligence models**
+- 🌱 **I’m  currently learning and building expertise in machine learning and artificial intelligence models**
 
-- 💬 Ask me about **ask me about Mern Stack my journey and the latest projects I’m working on.”**
+- 💬 **Ask me about My journey and the latest projects I’m working on.”**
 
 - 📫 How to reach me **amitgatkal7492@gmail.com**
 
