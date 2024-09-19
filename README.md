@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://x.com/gatkal_amit2530" target="blank"><img src="https://img.shields.io/twitter/follow/amitgatkal?logo=twitter&style=for-the-badge" alt="amitgatkal2530" /></a> </p>
 
-- 🔭 I’m currently working on [AI MathMingle](https://github.com/amitgatkal2530/AI-MathMingle)
+- 🔭 I’m currently working on [AI MathMingle](https://github.com/amitgatkal2530/AIMathMingle)
 
 - 🌱 **I’m  currently learning and building expertise in machine learning and artificial intelligence models**
 
