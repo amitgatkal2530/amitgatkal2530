@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Amit Gatkal</h1>
-<h3 align="center">“Full-stack developer with a passion for building and innovating machine learning models and advancing artificial intelligence."</h3>
+<h1 align="center">Hi there  👋, I'm Amit Gatkal</h1>
+<h3 align="center">“I am Amit Gatkal ,a 2nd-year Postgraduate student pursuing a MCA in Computer Science at Savitribai Phule Pune University."</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -10,9 +10,10 @@
 
 - 🔭 I’m currently working on [AI MathMingle](https://github.com/amitgatkal2530/AIMathMingle)
 
-- 🌱 **I’m  currently learning and building expertise in machine learning and artificial intelligence models**
-
-- 💬 **Ask me about My journey and the latest projects I’m working on.”**
+- 🎯 Passionate open source contributor
+- 📍 Proficient in C++, HTML, CSS, JavaScript, React.js, Java, OOP, and DSA
+- 🔭 Currently focused on building efficient projects
+- 👯 Seeking collaboration on frontend web development projects
 
 - 📫 How to reach me **amitgatkal7492@gmail.com**
 
